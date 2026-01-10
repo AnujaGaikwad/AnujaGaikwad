@@ -1,6 +1,6 @@
 <div align="center">
 
-# About Me 
+# About Me  ◉‿◉
 
 </div>
 
@@ -44,19 +44,9 @@ I am good at problem-solving, logical thinking, self-learning, and staying consi
 <img src="https://img.shields.io/badge/TensorFlow-black?style=for-the-badge&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch"/>
 <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib"/>
 <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly"/>
 <img src="https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=numpy"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
 
 <br/>
 
@@ -75,17 +65,17 @@ I am good at problem-solving, logical thinking, self-learning, and staying consi
 </div>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnujaGaikwad&theme=graywhite&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AnujaGaikwad&show_icons=true&theme=dark"/>
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=AnujaGaikwad&theme=graywhite&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AnujaGaikwad&theme=dark"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujaGaikwad&layout=compact&theme=graywhite&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujaGaikwad&layout=compact&theme=dark"/>
 </p>
 
 ---
 
 <div align="center">
 
-quietly building. learning daily. staying consistent;)
+quietly building. learning daily. staying consistent.  ◉‿◉
 
 </div>
