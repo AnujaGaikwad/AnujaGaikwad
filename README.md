@@ -48,13 +48,11 @@ I excel in problem-solving and logical thinking, with a strong habit of self-lea
 <img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
 <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib"/>
 <img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/MLflow-black?style=for-the-badge&logo=numpy"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab"/>
 
 </p>
 
