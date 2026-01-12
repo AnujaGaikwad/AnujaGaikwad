@@ -23,10 +23,7 @@ I excel in problem-solving and logical thinking, with a strong habit of self-lea
 </a>
 <a href="https://www.linkedin.com/in/anuja-gaikwad-468599352">
   <img src="https://img.shields.io/badge/LinkedIn-Anuja%20Gaikwad-black?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:anujag2020@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anujag2020@gmail.com-black?style=for-the-badge&logo=gmail"/>
-</a>
+
 </p>
 
 ---
