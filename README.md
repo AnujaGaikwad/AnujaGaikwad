@@ -61,7 +61,7 @@ I excel in problem-solving and logical thinking, with a strong habit of self-lea
 
 </div>
 
-### ◈ Jarvis Assistant (Python)
+### ◈ Jarvis Assistant
 An AI-powered personal assistant built using Python.  
 Designed to listen to commands, process user input, and perform automated tasks.
 
