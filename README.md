@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👩‍💻 Anuja Ramesh Gaikwad  
+#  Anuja Ramesh Gaikwad  
 ### Artificial Intelligence & Machine Learning Enthusiast | Final-Year Engineering Student
 
 </div>
 
 ---
 
-## 👋 About Me  
+##  About Me  
 
 I am a **final-year engineering student** with a strong interest in **Artificial Intelligence and Machine Learning**.  
 I learn AI concepts through **hands-on Python projects**, focusing on practical implementation rather than theory alone.  
@@ -96,6 +96,6 @@ https://github.com/AnujaGaikwad/AI-learning-projects
 
 <div align="center">
 
-✨ *Quietly building. Learning daily. Staying consistent.*  
+ *Quietly building. Learning daily. Staying consistent.*  
 
 </div>
