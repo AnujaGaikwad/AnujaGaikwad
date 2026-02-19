@@ -67,27 +67,64 @@ I bring strong **problem-solving and logical thinking skills**, along with a con
 
 </div>
 
-### ◈ Jarvis Assistant  
-An **AI-powered personal assistant** built using Python.  
-Designed to listen to voice commands, process user input, and perform automated system tasks.
+## 🤖 Featured AI Projects
+
+🔹 JARVIS – AI Desktop Voice Assistant
+
+A multi-threaded AI-powered desktop voice assistant built using Python and the Google Gemini API.
+Features include wake-word detection, contextual memory, personality modes, and Windows application automation.
+
+Key Highlights:
+
+🎙️ Voice input with SpeechRecognition
+
+🧠 Context-aware responses using Gemini AI
+
+🔊 Text-to-speech via gTTS
+
+🖥️ Windows automation using PyAutoGUI
+
+⚡ Multi-threaded architecture for real-time interaction
+
+Tech Stack: Python, SpeechRecognition, Google Gemini API, gTTS, Pygame, PyAutoGUI
 
 🔗 **Repository:**  
-https://github.com/AnujaGaikwad/Jarvis-Assistant
+https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant
 
 ---
 
-### ◈ WhatsApp Auto-Reply AI Chatbot  
-An **automation-focused AI chatbot** that reads incoming WhatsApp messages and generates replies automatically.  
-Built to explore message parsing, automation logic, and intelligent response handling.
+◈ WhatsApp Auto-Reply AI Chatbot
+
+An automation-focused AI chatbot that reads incoming WhatsApp messages and generates intelligent replies automatically.
+
+Built to explore:
+
+📩 Message parsing
+
+🤖 Automated response logic
+
+🧠 AI-powered contextual replies
+
+🔄 Workflow automation
 
 🔗 **Repository:**  
-https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation
+https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-
 
 ---
 
-### ◈ AI Learning Projects  
-A structured collection of **hands-on AI and Machine Learning projects**.  
-Includes ML experiments, OpenCV fundamentals, and applied problem-solving tasks.
+◈ AI Learning Projects
+
+A structured collection of hands-on AI and Machine Learning projects, focused on practical experimentation and real-world application.
+
+Includes:
+
+📊 ML model experiments
+
+👁️ OpenCV fundamentals
+
+🧮 Data preprocessing & visualization
+
+🧩 Applied AI problem-solving tasks
 
 🔗 **Repository:**  
 https://github.com/AnujaGaikwad/AI-learning-projects
