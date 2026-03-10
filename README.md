@@ -90,10 +90,6 @@ A multi-threaded **AI-powered desktop assistant** built using Python and the Goo
 • System automation for Windows  
 • Multi-threaded architecture for real-time interaction  
 
-**Tech Stack**
-
-Python • SpeechRecognition • Gemini API • gTTS • PyAutoGUI • Pygame
-
 🔗 **Repository**  
 https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant
 
