@@ -129,17 +129,6 @@ Includes:
 🔗 **Repository**  
 https://github.com/AnujaGaikwad/AI-learning-projects
 
----
-
-<div align="center">
-
-##  GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnujaGaikwad&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGaikwad"/>
-
-</div>
 
 ---
 
