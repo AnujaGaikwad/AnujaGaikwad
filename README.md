@@ -3,7 +3,7 @@
 # Hi, I'm Anuja Ramesh Gaikwad 👋
 ### Python Developer • AI/ML • Data Analytics • Automation
 
-Final-year B.Tech (ECE) student building end-to-end AI systems — from model training to deployment.
+ B.Tech student building end-to-end AI systems — from model training to deployment.
 
 </div>
 
