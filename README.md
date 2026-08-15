@@ -124,18 +124,12 @@ Cleaned and analyzed a raw movie ratings dataset to surface trends supporting da
 
 <div align="center">
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=AnujaGaikwad&show_icons=true&theme=default&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGaikwad&hide_border=true" height="165"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 🚧 Currently learning: RAG pipelines, LangChain, and vector databases
 ### Quietly building. Learning daily. Staying consistent.
 
 </div>
