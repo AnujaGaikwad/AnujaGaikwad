@@ -75,7 +75,6 @@ End-to-end deep learning pipeline that classifies images across **5 flower speci
 
 **Stack:** Python · TensorFlow/Keras · OpenCV · NumPy · Streamlit
 
-🔗 `[add repo link]`
 
 ---
 
@@ -95,7 +94,7 @@ A multi-threaded desktop assistant combining voice recognition with an LLM (Gemi
 ---
 
 ### 💬 WhatsApp AI Auto-Reply Chatbot
-An automation chatbot that reads incoming WhatsApp messages and generates context-aware replies automatically.
+An automated chatbot that reads incoming WhatsApp messages and generates context-aware replies.
 
 **What it does**
 - Parses incoming messages and classifies intent using rule-based NLP
@@ -119,7 +118,7 @@ Cleaned and analyzed a raw movie ratings dataset to surface trends supporting da
 
 **Stack:** Python · Pandas · Matplotlib · Seaborn
 
-🔗 `[add repo link]`
+🔗https://github.com/AnujaGaikwad/movie-data-analysis
 
 ---
 
