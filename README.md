@@ -1,135 +1,142 @@
 <div align="center">
 
-#  Anuja Ramesh Gaikwad  
+# Hi, I'm Anuja Ramesh Gaikwad 👋
+### Python Developer • AI/ML • Data Analytics • Automation
 
-### Python Developer | AI • Data Analytics • Automation
-
-Building intelligent systems and exploring real-world applications of Artificial Intelligence and Data.
+Final-year B.Tech (ECE) student building end-to-end AI systems — from model training to deployment.
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
-I am a **Python developer** passionate about building **AI-powered systems, automation tools, and data-driven solutions**.
+I'm a **Python developer** who builds **AI-powered systems, automation tools, and data-driven solutions**, and ships them rather than leaving them in a notebook.
 
-My learning approach focuses on **hands-on experimentation and practical implementation**, where I explore how intelligent systems work internally and apply them to solve real-world problems.
+Recent focus: taking projects past "it runs on my machine" — deploying models, integrating LLM APIs into real pipelines, and understanding what's happening *underneath* the API call, not just calling it.
 
-I enjoy combining **Artificial Intelligence, Data Analytics, and automation** to create systems that are both useful and efficient.
-
-Driven by curiosity and consistency, I aim to continuously improve my technical skills and build impactful technology.
+Currently deepening my understanding of **Retrieval-Augmented Generation (RAG), LangChain, and vector databases** to move from "using LLMs" to "building LLM systems."
 
 ---
 
 <div align="center">
 
-##  Connect With Me
-
-</div>
-
-<p align="center">
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
-<img src="https://img.shields.io/badge/LinkedIn-Anuja%20Gaikwad-black?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Anuja%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://anujagaikwad.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:anujag2020@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/er.anuja.g">
-<img src="https://img.shields.io/badge/Instagram-@er.anuja.g-black?style=for-the-badge&logo=instagram"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-##  Tech Stack
+## Tech Stack
 
-</div>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-black?style=for-the-badge&logo=scikit-learn"/>
-<img src="https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv"/>
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=matplotlib"/>
-<img src="https://img.shields.io/badge/Plotly-black?style=for-the-badge&logo=plotly"/>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <br/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-black?style=for-the-badge&logo=googleanalytics"/>
-<img src="https://img.shields.io/badge/Automation-black?style=for-the-badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-
-</p>
-
----
-
-<div align="center">
-
-##  Featured Projects
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </div>
 
-### 🤖 JARVIS – AI Desktop Voice Assistant
+---
 
-A multi-threaded **AI-powered desktop assistant** built using Python and the Google Gemini API.
+<div align="center">
 
-**Features**
+## Featured Projects
 
-• Voice command recognition  
-• Context-aware AI responses  
-• System automation for Windows  
-• Multi-threaded architecture for real-time interaction  
+</div>
 
-🔗 **Repository**  
-https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant
+### 🌸 Flower Recognition System — CNN Image Classifier
+End-to-end deep learning pipeline that classifies images across **5 flower species**, deployed as a live web app.
+
+**What it does**
+- Custom CNN trained on an image dataset with preprocessing and data augmentation
+- Full pipeline: preprocessing → augmentation → training → evaluation
+- Deployed with Streamlit for real-time predictions in the browser
+- **Result:** `[add your test accuracy, e.g. 92% test accuracy]`
+
+**Stack:** Python · TensorFlow/Keras · OpenCV · NumPy · Streamlit
+
+🔗 `[add repo link]`
 
 ---
 
-### 🤖 WhatsApp AI Auto-Reply Chatbot
+### 🤖 JARVIS — AI Desktop Voice Assistant
+A multi-threaded desktop assistant combining voice recognition with an LLM (Gemini API) for context-aware responses.
 
-An automation-focused chatbot that **reads incoming WhatsApp messages and generates intelligent replies automatically**.
+**What it does**
+- Real-time voice command recognition and Windows system automation
+- Gemini API integration for conversational, context-aware replies
+- Multi-threaded architecture so voice input and response generation don't block each other
+- **Result:** `[add e.g. number of automated commands supported / avg response time]`
 
-**Capabilities**
+**Stack:** Python · Speech Recognition · Gemini API
 
-• Message parsing  
-• Automated response generation  
-• AI-powered contextual replies  
-• Workflow automation  
-
-🔗 **Repository**  
-https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-
+🔗 https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant
 
 ---
 
-### 🧠 AI & Data Learning Projects
+### 💬 WhatsApp AI Auto-Reply Chatbot
+An automation chatbot that reads incoming WhatsApp messages and generates context-aware replies automatically.
 
-A structured collection of **Artificial Intelligence, Machine Learning, and Data Analytics experiments**.
+**What it does**
+- Parses incoming messages and classifies intent using rule-based NLP
+- Combines NLP logic with Gemini API output for more relevant replies
+- Runs as a background automation workflow
+- **Result:** `[add e.g. reply accuracy / messages handled in testing]`
 
-Includes:
+**Stack:** Python · NLP · TextBlob · Gemini API
 
-• Machine learning model experimentation  
-• OpenCV computer vision practice  
-• Data preprocessing & visualization  
-• Exploratory data analysis  
+🔗 https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-
 
-🔗 **Repository**  
-https://github.com/AnujaGaikwad/AI-learning-projects
+---
 
+### 📊 Movie Ratings Analysis — Exploratory Data Analysis
+Cleaned and analyzed a raw movie ratings dataset to surface trends supporting data-informed decisions.
+
+**What it does**
+- Resolved null values, duplicates, and type mismatches in raw data
+- Used groupby operations, correlation analysis, and descriptive statistics
+- Visualized findings through histograms, bar charts, and heatmaps
+
+**Stack:** Python · Pandas · Matplotlib · Seaborn
+
+🔗 `[add repo link]`
 
 ---
 
 <div align="center">
 
-###  *Quietly building. Learning daily. Staying consistent.*
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnujaGaikwad&show_icons=true&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujaGaikwad&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚧 Currently learning: RAG pipelines, LangChain, and vector databases
+### Quietly building. Learning daily. Staying consistent.
 
 </div>
