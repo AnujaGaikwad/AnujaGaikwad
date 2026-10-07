@@ -1,168 +1,131 @@
-# Hi, I'm Anuja Ramesh Gaikwad 👋
+# Hi, I'm Anuja Gaikwad 👋
 
-### Python Developer | AWS | AI/ML | Automation
+### Python Developer | AWS • AI • Automation
 
-I build **Python-based AI and cloud applications** that go beyond notebooks and local demos. My work focuses on developing APIs, integrating AI models and LLMs, deploying applications on AWS, and automating real-world workflows.
+I build **Python-powered cloud applications, AI systems, and automation solutions** using AWS, Generative AI, APIs, and modern development tools.
 
-Currently strengthening my skills in **Generative AI, AI automation, cloud architecture, and LLM application development**.
+My focus is on turning ideas into **working, deployable systems** rather than stopping at experiments or notebooks.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🐍 Python developer focused on backend, AI, automation, and cloud applications
-- ☁️ Hands-on experience building and deploying solutions using **AWS**
-- 🤖 Interested in **AI/ML, Generative AI, AI agents, and automation**
-- 📊 Working knowledge of **SQL, Pandas, NumPy, Power BI, and data analysis**
-- 🐳 Experience with **Docker, Kubernetes, ECR, and ECS**
-- 🔧 Comfortable building **REST APIs, serverless applications, and cloud-based systems**
-- 📚 Currently exploring **RAG, LangChain, vector databases, and LLM-based systems**
+- 🐍 Python developer focused on backend, automation, and cloud applications
+- ☁️ Building serverless and cloud-based solutions with **AWS**
+- 🤖 Working with **Generative AI, Machine Learning, and LLM APIs**
+- ⚙️ Interested in **AI automation, APIs, and intelligent workflows**
+- 🐳 Learning and applying **Docker, Kubernetes, and cloud deployment**
+- 📊 Supporting skills in **SQL, Data Analytics, Pandas, NumPy, and visualization**
+- 🎓 B.Tech in Electronics & Computer Engineering
+
+Currently focused on strengthening my skills in **Python, AWS, AI/GenAI, backend development, and deployment**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
 ### Programming & Backend
-`Python` `SQL` `Flask` `REST APIs` `HTML` `CSS` `JavaScript`
+`Python` `SQL` `JavaScript` `HTML` `CSS` `Flask` `REST APIs` `Boto3`
 
-### AI / Machine Learning
-`Machine Learning` `Deep Learning` `TensorFlow/Keras` `OpenCV` `Generative AI` `Gemini API` `Google GenAI SDK` `NLP` `AI Automation`
+### AWS & Cloud
+`AWS Lambda` `EC2` `S3` `API Gateway` `DynamoDB` `RDS`  
+`CloudWatch` `EventBridge` `SNS` `IAM` `CloudFront`  
+`Rekognition` `Polly` `ECR` `ECS Fargate` `ALB` `ASG`
 
-### Data Analytics
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Statistics` `EDA` `Power BI` `Excel`
-
-### AWS / Cloud
-`AWS Lambda` `EC2` `S3` `API Gateway` `DynamoDB` `RDS` `CloudFront` `CloudWatch` `EventBridge` `SNS` `IAM` `ALB` `ASG` `ECR` `ECS` `Rekognition` `Polly`
+### AI / ML / GenAI
+`Machine Learning` `Deep Learning` `TensorFlow` `Keras` `CNN`  
+`OpenCV` `NLP` `Gemini API` `Generative AI` `LLM APIs`
 
 ### DevOps & Tools
-`Docker` `Docker Compose` `Kubernetes` `Git` `GitHub` `VS Code`
+`Docker` `Docker Compose` `Kubernetes`  
+`Git` `GitHub` `GitHub Actions` `AWS OIDC`  
+`VS Code` `Jupyter` `Streamlit`
+
+### Data & Analytics
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Plotly`  
+`EDA` `Statistics` `Power BI` `Excel`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ☁️ Automated AWS Cost Optimizer
+### 🔎 AI Detective
+**AI-powered evidence investigation system**
 
-Serverless AWS automation that identifies tagged EC2 resources and automatically manages their running state based on scheduled rules.
+A serverless investigation platform that combines **AWS services, Gemini multimodal AI, and image analysis** to investigate uploaded evidence.
 
-**AWS:** Lambda · EC2 · EventBridge · CloudWatch · IAM
-
-**Highlights**
-- Python-based AWS Lambda automation
-- EC2 resource management using AWS SDK
-- Tag-based resource selection
-- Scheduled execution using EventBridge
-- Monitoring and debugging through CloudWatch Logs
-
-🔗 [Repository](https://github.com/AnujaGaikwad)
+**Tech:** Python • AWS Lambda • S3 • API Gateway • DynamoDB • Rekognition • Gemini • Polly • SNS
 
 ---
 
-## 🧠 AI Detective — Find the Truth
+### ☁️ CloudOps Rescue Center
+**Containerized cloud incident management platform**
 
-An AI-powered investigation system designed to analyze information and generate structured insights using cloud-based services and AI.
+A cloud operations project demonstrating the complete path from local containers to **AWS ECS Fargate and Kubernetes**, including scaling, self-healing, rolling updates, and rollback.
 
-**Stack:** Python · AWS Lambda · API Gateway · S3 · DynamoDB · AI APIs
-
-**Highlights**
-- Serverless backend architecture
-- AI-powered analysis workflow
-- API-based application design
-- Cloud storage and database integration
+**Tech:** Flask • Docker • Docker Compose • ECR • ECS Fargate • Kubernetes • CloudWatch
 
 ---
 
-## 🌸 Flower Recognition System — CNN Image Classifier
+### 💰 Automated AWS Cost Optimizer
+**Tag-based EC2 automation**
 
-An end-to-end deep learning application that classifies images across multiple flower categories.
+Automatically starts and stops development EC2 instances using **AWS Lambda and EventBridge Scheduler**, helping reduce unnecessary compute usage.
 
-**Stack:** Python · TensorFlow/Keras · OpenCV · NumPy · Streamlit
-
-**Highlights**
-- Image preprocessing and augmentation
-- Custom CNN training pipeline
-- Model evaluation
-- Real-time browser-based predictions using Streamlit
+**Tech:** Python • Boto3 • Lambda • EC2 • EventBridge • IAM • CloudWatch
 
 ---
 
-## 🤖 JARVIS — AI Desktop Voice Assistant
+### 💳 SmartExpenseTracker
+**Serverless expense management application**
 
-A Python desktop assistant combining voice recognition, Gemini API integration, and Windows automation.
+A full-stack serverless application for managing expenses, category analytics, budgets, and spending insights.
 
-**Stack:** Python · Gemini API · Speech Recognition · Multithreading
-
-**Highlights**
-- Voice command processing
-- LLM-powered conversational responses
-- Windows system automation
-- Multithreaded architecture
-
-🔗 [Repository](https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant)
+**Tech:** HTML • CSS • JavaScript • API Gateway • Lambda • DynamoDB • S3 • GitHub Actions • AWS OIDC
 
 ---
 
-## 💬 WhatsApp AI Auto-Reply Chatbot
+### 🧑‍💻 AI Developer Assistant
+A CLI-based AI tool designed to help developers understand, debug, document, and improve Python codebases.
 
-An automated chatbot that processes incoming WhatsApp messages and generates context-aware responses.
-
-**Stack:** Python · NLP · TextBlob · Gemini API
-
-**Highlights**
-- Incoming message processing
-- Rule-based intent handling
-- Gemini-powered response generation
-- Background automation workflow
-
-🔗 [Repository](https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-)
+**Tech:** Python • Gemini/Groq APIs • CLI • Rich
 
 ---
 
-## 📊 Movie Ratings Analysis
+### 🌸 Flower Recognition CNN
+A deep-learning image classification system using **TensorFlow/Keras** with preprocessing, augmentation, and Streamlit-based inference.
 
-Exploratory data analysis project focused on cleaning, analyzing, and visualizing movie rating data.
-
-**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn
-
-**Highlights**
-- Data cleaning and preprocessing
-- Missing-value and duplicate handling
-- Groupby and correlation analysis
-- Statistical analysis and visualization
-
-🔗 [Repository](https://github.com/AnujaGaikwad/movie-data-analysis)
+**Tech:** Python • TensorFlow • Keras • CNN • OpenCV • Streamlit
 
 ---
 
-# ☁️ AWS Projects
+## 📌 What I'm Building Toward
 
-I have worked hands-on with:
+```text
+Python Development
+       ↓
+AWS & Cloud Applications
+       ↓
+AI / Generative AI
+       ↓
+Automation & Intelligent Systems
+       ↓
+Production-ready Applications
+```
 
-**Lambda · EC2 · S3 · API Gateway · DynamoDB · RDS · CloudFront · CloudWatch · EventBridge · SNS · IAM · ALB · ASG · ECR · ECS · Rekognition · Polly**
-
-Projects include serverless applications, cloud automation, APIs, scalable EC2 deployments, containerized applications, and AWS-based AI systems.
-
----
-
-# 📚 Currently Learning
-
-- Generative AI application architecture
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- Vector databases
-- AI agents and automation
-- Advanced AWS architecture
-- Cloud-native application development
+I'm particularly interested in building systems where **Python + Cloud + AI solve practical problems**.
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Connect With Me
 
-- 💼 LinkedIn: [Anuja Gaikwad](https://www.linkedin.com/)
-- 🐙 GitHub: [@AnujaGaikwad](https://github.com/AnujaGaikwad)
+- 🌐 Portfolio: https://anujagaikwad.github.io/
+- 💼 LinkedIn: https://www.linkedin.com/in/er-anuja-gaikwad/
+- 💻 GitHub: https://github.com/AnujaGaikwad
+- 📍 Pune, India
 
 ---
 
-### 🚀 Building. Deploying. Learning.
+### 🚀 Keep Building. Keep Learning. Keep Shipping.
 
-I focus on turning ideas into working applications rather than stopping at tutorials or notebooks.
+> Turning ideas into systems, one project at a time.
