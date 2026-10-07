@@ -238,9 +238,7 @@ Worked on practical web development tasks and gained hands-on exposure to develo
 
 <p align="center">
 
-<a href="mailto:anujag2020@gmail.com">
-📧 Email
-</a>
+
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
