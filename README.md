@@ -239,16 +239,11 @@ Worked on practical web development tasks and gained hands-on exposure to develo
 <p align="center">
 
 
-&nbsp;&nbsp;•&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
 💼 LinkedIn
 </a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 
-<a href="https://github.com/AnujaGaikwad">
-🐙 GitHub
-</a>
 
 </p>
 
