@@ -1,135 +1,168 @@
-<div align="center">
-
 # Hi, I'm Anuja Ramesh Gaikwad 👋
-### Python Developer • AI/ML • Data Analytics • Automation
 
- B.Tech student building end-to-end AI systems — from model training to deployment.
+### Python Developer | AWS | AI/ML | Automation
 
-</div>
+I build **Python-based AI and cloud applications** that go beyond notebooks and local demos. My work focuses on developing APIs, integrating AI models and LLMs, deploying applications on AWS, and automating real-world workflows.
 
----
-
-## About Me
-
-I'm a **Python developer** who builds **AI-powered systems, automation tools, and data-driven solutions**, and ships them rather than leaving them in a notebook.
-
-Recent focus: taking projects past "it runs on my machine" — deploying models, integrating LLM APIs into real pipelines, and understanding what's happening *underneath* the API call, not just calling it.
-
-Currently deepening my understanding of **Retrieval-Augmented Generation (RAG), LangChain, and vector databases** to move from "using LLMs" to "building LLM systems."
+Currently strengthening my skills in **Generative AI, AI automation, cloud architecture, and LLM application development**.
 
 ---
 
-<div align="center">
+## 👩‍💻 About Me
 
-## Connect With Me
-
-<a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
-<img src="https://img.shields.io/badge/LinkedIn-Anuja%20Gaikwad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://anujagaikwad.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Website-222222?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="mailto:anujag2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- 🐍 Python developer focused on backend, AI, automation, and cloud applications
+- ☁️ Hands-on experience building and deploying solutions using **AWS**
+- 🤖 Interested in **AI/ML, Generative AI, AI agents, and automation**
+- 📊 Working knowledge of **SQL, Pandas, NumPy, Power BI, and data analysis**
+- 🐳 Experience with **Docker, Kubernetes, ECR, and ECS**
+- 🔧 Comfortable building **REST APIs, serverless applications, and cloud-based systems**
+- 📚 Currently exploring **RAG, LangChain, vector databases, and LLM-based systems**
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-## Tech Stack
+### Programming & Backend
+`Python` `SQL` `Flask` `REST APIs` `HTML` `CSS` `JavaScript`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+### AI / Machine Learning
+`Machine Learning` `Deep Learning` `TensorFlow/Keras` `OpenCV` `Generative AI` `Gemini API` `Google GenAI SDK` `NLP` `AI Automation`
 
-</div>
+### Data Analytics
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Statistics` `EDA` `Power BI` `Excel`
+
+### AWS / Cloud
+`AWS Lambda` `EC2` `S3` `API Gateway` `DynamoDB` `RDS` `CloudFront` `CloudWatch` `EventBridge` `SNS` `IAM` `ALB` `ASG` `ECR` `ECS` `Rekognition` `Polly`
+
+### DevOps & Tools
+`Docker` `Docker Compose` `Kubernetes` `Git` `GitHub` `VS Code`
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-## Featured Projects
+## ☁️ Automated AWS Cost Optimizer
 
-</div>
+Serverless AWS automation that identifies tagged EC2 resources and automatically manages their running state based on scheduled rules.
 
-### 🌸 Flower Recognition System — CNN Image Classifier
-End-to-end deep learning pipeline that classifies images across **5 flower species**, deployed as a live web app.
+**AWS:** Lambda · EC2 · EventBridge · CloudWatch · IAM
 
-**What it does**
-- Custom CNN trained on an image dataset with preprocessing and data augmentation
-- Full pipeline: preprocessing → augmentation → training → evaluation
-- Deployed with Streamlit for real-time predictions in the browser
-- **Result:** `[add your test accuracy, e.g. 92% test accuracy]`
+**Highlights**
+- Python-based AWS Lambda automation
+- EC2 resource management using AWS SDK
+- Tag-based resource selection
+- Scheduled execution using EventBridge
+- Monitoring and debugging through CloudWatch Logs
+
+🔗 [Repository](https://github.com/AnujaGaikwad)
+
+---
+
+## 🧠 AI Detective — Find the Truth
+
+An AI-powered investigation system designed to analyze information and generate structured insights using cloud-based services and AI.
+
+**Stack:** Python · AWS Lambda · API Gateway · S3 · DynamoDB · AI APIs
+
+**Highlights**
+- Serverless backend architecture
+- AI-powered analysis workflow
+- API-based application design
+- Cloud storage and database integration
+
+---
+
+## 🌸 Flower Recognition System — CNN Image Classifier
+
+An end-to-end deep learning application that classifies images across multiple flower categories.
 
 **Stack:** Python · TensorFlow/Keras · OpenCV · NumPy · Streamlit
 
+**Highlights**
+- Image preprocessing and augmentation
+- Custom CNN training pipeline
+- Model evaluation
+- Real-time browser-based predictions using Streamlit
 
 ---
 
-### 🤖 JARVIS — AI Desktop Voice Assistant
-A multi-threaded desktop assistant combining voice recognition with an LLM (Gemini API) for context-aware responses.
+## 🤖 JARVIS — AI Desktop Voice Assistant
 
-**What it does**
-- Real-time voice command recognition and Windows system automation
-- Gemini API integration for conversational, context-aware replies
-- Multi-threaded architecture so voice input and response generation don't block each other
-- **Result:** `[add e.g. number of automated commands supported / avg response time]`
+A Python desktop assistant combining voice recognition, Gemini API integration, and Windows automation.
 
-**Stack:** Python · Speech Recognition · Gemini API
+**Stack:** Python · Gemini API · Speech Recognition · Multithreading
 
-🔗 https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant
+**Highlights**
+- Voice command processing
+- LLM-powered conversational responses
+- Windows system automation
+- Multithreaded architecture
+
+🔗 [Repository](https://github.com/AnujaGaikwad/jarvis-ai-desktop-assistant)
 
 ---
 
-### 💬 WhatsApp AI Auto-Reply Chatbot
-An automated chatbot that reads incoming WhatsApp messages and generates context-aware replies.
+## 💬 WhatsApp AI Auto-Reply Chatbot
 
-**What it does**
-- Parses incoming messages and classifies intent using rule-based NLP
-- Combines NLP logic with Gemini API output for more relevant replies
-- Runs as a background automation workflow
-- **Result:** `[add e.g. reply accuracy / messages handled in testing]`
+An automated chatbot that processes incoming WhatsApp messages and generates context-aware responses.
 
 **Stack:** Python · NLP · TextBlob · Gemini API
 
-🔗 https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-
+**Highlights**
+- Incoming message processing
+- Rule-based intent handling
+- Gemini-powered response generation
+- Background automation workflow
+
+🔗 [Repository](https://github.com/AnujaGaikwad/AUTO-REPLY-AI-CHATBOT-WhatsApp-Automation-)
 
 ---
 
-### 📊 Movie Ratings Analysis — Exploratory Data Analysis
-Cleaned and analyzed a raw movie ratings dataset to surface trends supporting data-informed decisions.
+## 📊 Movie Ratings Analysis
 
-**What it does**
-- Resolved null values, duplicates, and type mismatches in raw data
-- Used groupby operations, correlation analysis, and descriptive statistics
-- Visualized findings through histograms, bar charts, and heatmaps
+Exploratory data analysis project focused on cleaning, analyzing, and visualizing movie rating data.
 
-**Stack:** Python · Pandas · Matplotlib · Seaborn
+**Stack:** Python · Pandas · NumPy · Matplotlib · Seaborn
 
-🔗https://github.com/AnujaGaikwad/movie-data-analysis
+**Highlights**
+- Data cleaning and preprocessing
+- Missing-value and duplicate handling
+- Groupby and correlation analysis
+- Statistical analysis and visualization
 
----
-
-<div align="center">
-
-</div>
+🔗 [Repository](https://github.com/AnujaGaikwad/movie-data-analysis)
 
 ---
 
-<div align="center">
+# ☁️ AWS Projects
 
-### Quietly building. Learning daily. Staying consistent.
+I have worked hands-on with:
 
-</div>
+**Lambda · EC2 · S3 · API Gateway · DynamoDB · RDS · CloudFront · CloudWatch · EventBridge · SNS · IAM · ALB · ASG · ECR · ECS · Rekognition · Polly**
+
+Projects include serverless applications, cloud automation, APIs, scalable EC2 deployments, containerized applications, and AWS-based AI systems.
+
+---
+
+# 📚 Currently Learning
+
+- Generative AI application architecture
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Vector databases
+- AI agents and automation
+- Advanced AWS architecture
+- Cloud-native application development
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: [Anuja Gaikwad](https://www.linkedin.com/)
+- 🐙 GitHub: [@AnujaGaikwad](https://github.com/AnujaGaikwad)
+
+---
+
+### 🚀 Building. Deploying. Learning.
+
+I focus on turning ideas into working applications rather than stopping at tutorials or notebooks.
