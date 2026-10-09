@@ -13,13 +13,18 @@
 </p>
 
 <p align="center">
-  <a href="https://anujagaikwad.github.io/">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/AnujaGaikwad">💻 GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">💼 LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:anujag2020@gmail.com">✉️ Email</a>
+  <a href="https://anujagaikwad.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AnujaGaikwad">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:anujag2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -253,22 +258,6 @@ Percentage: 73%
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://anujagaikwad.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0e75b6?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/er-anuja-gaikwad/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/AnujaGaikwad">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:anujag2020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
 <p align="center">
   📍 Pune, Maharashtra, India
